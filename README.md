@@ -1,3 +1,3 @@
 # Medicle Rep Assistant
-A web app with frontend and backend functionality 
+A web app with all frontend and backend functionality 
 
