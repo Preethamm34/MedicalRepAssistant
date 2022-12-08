@@ -1,2 +1,2 @@
-# Preetham-M
+# Medicle Rep Assistant
 Medicle Rep Assistant
